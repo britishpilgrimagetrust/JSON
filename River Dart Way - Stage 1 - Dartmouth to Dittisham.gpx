@@ -1,0 +1,757 @@
+<gpx version="1.1" 
+creator="Memory-Map Mac https://memory-map.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xstyle="http://www.topografix.com/GPX/gpx_style/0/2"
+ xmlns:xgarmin="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 https://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+<rte>
+<name>River Dart Stage 1 - Dartmouth to Dittisham</name>
+<extensions> <xstyle:line>
+<xstyle:color>0000ff</xstyle:color>
+<xstyle:opacity>1.00</xstyle:opacity>
+<xstyle:width>2.00</xstyle:width>
+<xstyle:pattern>Solid</xstyle:pattern>
+</xstyle:line></extensions>
+<rtept lat="50.3412913656" lon="-3.5665967874">
+<time>2023-10-26T04:40:39Z</time>
+<name>R577P1</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3419267754" lon="-3.5656446837">
+<time>2023-10-26T04:40:40Z</time>
+<name>R577P2</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3425234196" lon="-3.5675564023">
+<time>2023-10-26T04:40:41Z</time>
+<name>R577P3</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3431262600" lon="-3.5690088671">
+<time>2023-10-26T04:40:42Z</time>
+<name>R577P4</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3429678260" lon="-3.5704902714">
+<time>2023-10-26T04:40:43Z</time>
+<name>R577P5</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3424986175" lon="-3.5719343570">
+<time>2023-10-26T04:40:44Z</time>
+<name>R577P6</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3421827480" lon="-3.5735456664">
+<time>2023-10-26T04:40:45Z</time>
+<name>R577P7</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3427299754" lon="-3.5739962590">
+<time>2023-10-26T04:40:46Z</time>
+<name>R577P8</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3435324144" lon="-3.5734822355">
+<time>2023-10-26T04:40:47Z</time>
+<name>R577P9</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3447074040" lon="-3.5760890604">
+<time>2023-10-26T04:40:48Z</time>
+<name>R577P10</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3456602453" lon="-3.5772289463">
+<time>2023-10-26T04:40:51Z</time>
+<name>R577P11</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3467425412" lon="-3.5777514450">
+<time>2023-10-26T04:40:53Z</time>
+<name>R577P12</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3480370388" lon="-3.5779295924">
+<time>2023-10-26T04:40:54Z</time>
+<name>R577P13</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3487729032" lon="-3.5784946917">
+<time>2023-10-26T04:40:55Z</time>
+<name>R577P14</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3502784992" lon="-3.5784095435">
+<time>2023-10-26T04:40:56Z</time>
+<name>R577P15</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3511964213" lon="-3.5783048675">
+<time>2023-10-26T04:40:57Z</time>
+<name>R577P16</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3512152086" lon="-3.5769267347">
+<time>2023-10-26T04:41:05Z</time>
+<name>R577P17</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3484463748" lon="-3.5732665007">
+<time>2023-10-26T04:41:08Z</time>
+<name>R577P18</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3483014640" lon="-3.5724777519">
+<time>2023-10-26T04:41:10Z</time>
+<name>R577P19</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3495565552" lon="-3.5704647447">
+<time>2023-10-26T04:43:04Z</time>
+<name>R577P20</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3499839021" lon="-3.5708303088">
+<time>2023-10-26T04:43:33Z</time>
+<name>R577P21</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3511860723" lon="-3.5701671611">
+<time>2023-10-26T04:43:34Z</time>
+<name>R577P22</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3529645505" lon="-3.5703611184">
+<time>2023-10-26T04:43:35Z</time>
+<name>R577P23</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3552725641" lon="-3.5697614966">
+<time>2023-10-26T04:43:36Z</time>
+<name>R577P24</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3571193864" lon="-3.5687410163">
+<time>2023-10-26T04:43:37Z</time>
+<name>R577P25</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3583112893" lon="-3.5688344583">
+<time>2023-10-26T04:43:38Z</time>
+<name>R577P26</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3589313927" lon="-3.5702879988">
+<time>2023-10-26T04:43:39Z</time>
+<name>R577P27</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3595400189" lon="-3.5700377289">
+<time>2023-10-26T04:43:40Z</time>
+<name>R577P28</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3603649521" lon="-3.5716873783">
+<time>2023-10-26T04:45:14Z</time>
+<name>R577P29</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3613376880" lon="-3.5726389364">
+<time>2023-10-26T04:45:15Z</time>
+<name>R577P30</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3628911059" lon="-3.5741235560">
+<time>2023-10-26T04:45:16Z</time>
+<name>R577P31</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3638402838" lon="-3.5742631852">
+<time>2023-10-26T04:45:17Z</time>
+<name>R577P32</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3640921913" lon="-3.5735414075">
+<time>2023-10-26T04:45:21Z</time>
+<name>R577P33</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3652844555" lon="-3.5736079574">
+<time>2023-10-26T04:45:22Z</time>
+<name>R577P34</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3656753698" lon="-3.5728366734">
+<time>2023-10-26T04:45:26Z</time>
+<name>R577P35</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3666164464" lon="-3.5722999369">
+<time>2023-10-26T04:45:27Z</time>
+<name>R577P36</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3680167803" lon="-3.5697771233">
+<time>2023-10-26T04:45:28Z</time>
+<name>R577P37</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3684388737" lon="-3.5679791118">
+<time>2023-10-26T04:45:38Z</time>
+<name>R577P38</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3692151347" lon="-3.5668418240">
+<time>2023-10-26T04:45:39Z</time>
+<name>R577P39</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3693663794" lon="-3.5684424583">
+<time>2023-10-26T04:45:42Z</time>
+<name>R577P40</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3691479729" lon="-3.5692465839">
+<time>2023-10-26T04:45:43Z</time>
+<name>R577P41</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3684188098" lon="-3.5720080444">
+<time>2023-10-26T04:45:44Z</time>
+<name>R577P42</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3685486551" lon="-3.5739054473">
+<time>2023-10-26T04:45:46Z</time>
+<name>R577P43</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3696063210" lon="-3.5749682161">
+<time>2023-10-26T04:45:47Z</time>
+<name>R577P44</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3711185259" lon="-3.5756674805">
+<time>2023-10-26T04:45:50Z</time>
+<name>R577P45</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3754635378" lon="-3.5765961029">
+<time>2023-10-26T04:45:51Z</time>
+<name>R577P46</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3770150881" lon="-3.5769451781">
+<time>2023-10-26T04:45:52Z</time>
+<name>R577P47</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3781102700" lon="-3.5765217168">
+<time>2023-10-26T04:45:53Z</time>
+<name>R577P48</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3777690113" lon="-3.5749144547">
+<time>2023-10-26T04:46:03Z</time>
+<name>R577P49</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3789410329" lon="-3.5726540698">
+<time>2023-10-26T04:46:04Z</time>
+<name>R577P50</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3794952113" lon="-3.5713199022">
+<time>2023-10-26T04:46:09Z</time>
+<name>R577P51</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3804701155" lon="-3.5708382066">
+<time>2023-10-26T04:46:09Z</time>
+<name>R577P52</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3808448282" lon="-3.5699849650">
+<time>2023-10-26T04:46:10Z</time>
+<name>R577P53</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3822177406" lon="-3.5745751441">
+<time>2023-10-26T04:46:15Z</time>
+<name>R577P54</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3827370010" lon="-3.5758097331">
+<time>2023-10-26T04:46:16Z</time>
+<name>R577P55</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3822666138" lon="-3.5773360889">
+<time>2023-10-26T04:46:17Z</time>
+<name>R577P56</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3813867936" lon="-3.5809858774">
+<time>2023-10-26T04:46:18Z</time>
+<name>R577P57</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3811722772" lon="-3.5827641351">
+<time>2023-10-26T04:46:19Z</time>
+<name>R577P58</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3832180253" lon="-3.5836439473">
+<time>2023-10-26T04:46:22Z</time>
+<name>R577P59</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3835154520" lon="-3.5846548308">
+<time>2023-10-26T04:46:23Z</time>
+<name>R577P60</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3839942315" lon="-3.5850495635">
+<time>2023-10-26T04:46:24Z</time>
+<name>R577P61</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3848662248" lon="-3.5845105628">
+<time>2023-10-26T04:46:24Z</time>
+<name>R577P62</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3844204156" lon="-3.5854966539">
+<time>2023-10-26T04:46:25Z</time>
+<name>R577P63</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3832297458" lon="-3.5878375156">
+<time>2023-10-26T04:46:26Z</time>
+<name>R577P64</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3829993241" lon="-3.5895070688">
+<time>2023-10-26T04:46:27Z</time>
+<name>R577P65</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3821579787" lon="-3.5915889566">
+<time>2023-10-26T04:46:28Z</time>
+<name>R577P66</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3826851889" lon="-3.5947447233">
+<time>2023-10-26T04:47:03Z</time>
+<name>R577P67</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3821164390" lon="-3.5958618003">
+<time>2023-10-26T04:47:04Z</time>
+<name>R577P68</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3814577397" lon="-3.5997351037">
+<time>2023-10-26T04:47:08Z</time>
+<name>R577P69</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3816208636" lon="-3.6004439509">
+<time>2023-10-26T04:47:08Z</time>
+<name>R577P70</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3823096166" lon="-3.6006565449">
+<time>2023-10-26T04:47:09Z</time>
+<name>R577P71</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3830930970" lon="-3.6015216058">
+<time>2023-10-26T04:47:10Z</time>
+<name>R577P72</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3836917459" lon="-3.6032461519">
+<time>2023-10-26T04:47:11Z</time>
+<name>R577P73</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+<rtept lat="50.3840490957" lon="-3.6036640243">
+<time>2023-10-26T04:47:12Z</time>
+<name>R577P74</name>
+<sym>Dot</sym>
+<extensions>
+<xstyle:fill>
+<xstyle:color>0000ff</xstyle:color>
+</xstyle:fill>
+</extensions>
+</rtept>
+</rte>
+</gpx>
