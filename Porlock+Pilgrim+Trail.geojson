@@ -1,0 +1,22 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.598476,51.207606]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.628829,51.219047]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.659964,51.22151]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.711979,51.229176]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.717775,51.212431]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.725193,51.1796]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.6432,51.152575]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.604957,51.179227]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.569903,51.177976]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.55998,51.190066]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.526616,51.180855]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.527735,51.195044]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.547402,51.210378]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.576254,51.217173]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.598327,51.208019]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.604691,51.179384]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.598653,51.207507]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.717613,51.212517]},"properties":{}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-3.598979,51.207712]},"properties":{}},
+{"type":"Feature","geometry":{"type":"MultiLineString","coordinates":[[[-3.598476,51.207606],[-3.628829,51.219047],[-3.659964,51.22151],[-3.711979,51.229176],[-3.717775,51.212431],[-3.725193,51.1796],[-3.6432,51.152575],[-3.604957,51.179227],[-3.569903,51.177976],[-3.55998,51.190066],[-3.526616,51.180855],[-3.527735,51.195044],[-3.547402,51.210378],[-3.576254,51.217173],[-3.598327,51.208019],[-3.604691,51.179384],[-3.598653,51.207507],[-3.717613,51.212517],[-3.598979,51.207712]]]},"properties":{"name":"porlock pilgrimage high level"}}
+]}
